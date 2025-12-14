@@ -1,2 +1,6 @@
-pip install streamlit pandas openpyxl PyPDF2 transformers torch
-pip install PyPDF2
+streamlit
+pandas
+openpyxl
+PyPDF2
+transformers
+torch
